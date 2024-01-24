@@ -31,7 +31,7 @@ body{
     width: 50%;
     height: 100%;
     position: fixed;top:0;left: 0;
-    background-image: url(./resource/index_mainvisual\(2\).png);
+    background-image: url(../resource/index_mainvisual\(2\).png);
 }
 .main-home-right{
     width: 50%;
